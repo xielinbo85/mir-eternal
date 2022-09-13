@@ -1,5 +1,5 @@
 {
-  "Name": "”•Œ¿ Ã¥”",
+  "Name": "Èπ∞Âç´‰æç‰ªé",
   "GuardNumber": 8486,
   "Level": 99,
   "RangeHate": 8
